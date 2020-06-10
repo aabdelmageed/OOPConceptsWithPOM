@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44982" started-at="2020-06-10T19:30:18Z" finished-at="2020-06-10T19:31:03Z">
+    <groups>
+    </groups>
+    <test name="My Hub Spot Test Chrome" duration-ms="44982" started-at="2020-06-10T19:30:18Z" finished-at="2020-06-10T19:31:03Z">
+      <class name="com.mytest.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mytest.LoginPageTest@5b275dab]" name="setUp" is-config="true" duration-ms="11396" started-at="2020-06-10T23:30:18Z" finished-at="2020-06-10T23:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.mytest.LoginPageTest@5b275dab]" name="verifyLoginPageTitleTest" duration-ms="560" started-at="2020-06-10T23:30:30Z" finished-at="2020-06-10T23:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mytest.LoginPageTest@5b275dab]" name="tearDown" is-config="true" duration-ms="691" started-at="2020-06-10T23:30:30Z" finished-at="2020-06-10T23:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mytest.LoginPageTest@5b275dab]" name="setUp" is-config="true" duration-ms="10451" started-at="2020-06-10T23:30:31Z" finished-at="2020-06-10T23:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageHeaderTest()[pri:2, instance:com.mytest.LoginPageTest@5b275dab]" name="verifyLoginPageHeaderTest" duration-ms="307" started-at="2020-06-10T23:30:41Z" finished-at="2020-06-10T23:30:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mytest.LoginPageTest@5b275dab]" name="tearDown" is-config="true" duration-ms="656" started-at="2020-06-10T23:30:42Z" finished-at="2020-06-10T23:30:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mytest.LoginPageTest@5b275dab]" name="setUp" is-config="true" duration-ms="10426" started-at="2020-06-10T23:30:42Z" finished-at="2020-06-10T23:30:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doLogin()[pri:3, instance:com.mytest.LoginPageTest@5b275dab]" name="doLogin" duration-ms="9335" started-at="2020-06-10T23:30:53Z" finished-at="2020-06-10T23:31:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mytest.LoginPageTest@5b275dab]" name="tearDown" is-config="true" duration-ms="1107" started-at="2020-06-10T23:31:02Z" finished-at="2020-06-10T23:31:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mytest.LoginPageTest -->
+    </test> <!-- My Hub Spot Test Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>
